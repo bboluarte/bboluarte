@@ -3,7 +3,7 @@
 ```shell
  { 
    “name” : “Brandon Francisco Boluarte Poma”,
-   “role” : “Frontend Dev | Backend Dev”,
+   “role” : “Mobile Dev | Backend Dev”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/brandonboluarte/", 
